@@ -1,7 +1,7 @@
 ---
 title: "Piano audio transcription: PodleRex companion"
 report_date: "2026-09-17"
-status: "Source-only research companion; canonical vault pending merge"
+status: "Source-only research companion; four-report snapshot commit-pinned"
 ---
 
 # Piano audio transcription: implications for PodleRex
@@ -9,11 +9,12 @@ status: "Source-only research companion; canonical vault pending merge"
 [Index](README.md)
 
 The canonical four-report research vault lives in **PodlESP/ai-docs/piano-transcription**.
-It is proposed in [PodlESP PR #13](https://github.com/podledges/PodlESP/pull/13)
-at commit [`d22feb617b53fa18901f3101269ee74b9ccd93bc`](https://github.com/podledges/PodlESP/tree/d22feb617b53fa18901f3101269ee74b9ccd93bc/ai-docs/piano-transcription),
-stacked on still-open [PR #12](https://github.com/podledges/PodlESP/pull/12).
-**Neither PR is merged; the vault is not on PodlESP `main` yet.** Links below are
-pinned to that reviewed snapshot, not to temporary local paths or unmerged `main`.
+[PodlESP PR #12](https://github.com/podledges/PodlESP/pull/12) merged the core synthesis to PodlESP `main`.
+[PR #13](https://github.com/podledges/PodlESP/pull/13) (records + broad evidence) merged into the stack
+branch, not `main`. The reviewed four-report snapshot remains commit-pinned at
+[`d22feb617b53fa18901f3101269ee74b9ccd93bc`](https://github.com/podledges/PodlESP/tree/d22feb617b53fa18901f3101269ee74b9ccd93bc/ai-docs/piano-transcription)
+because `records/` and `broad-evidence.md` are not on PodlESP `main`. Links below stay on that
+snapshot, not on live `main` or temporary local paths.
 
 Canonical pages (commit-pinned):
 
