@@ -12,3 +12,4 @@ Traversible backlinks for `go-next` reports. No graph database — Markdown only
 - Schematic exploration: `KiCad/firstTime/`
 - Reference PDF: `Schematic & Datasheets/`
 - Evidence staging note: `evidence/README.md`
+- Research companion: [Piano audio transcription](piano-transcription.md) (source-only; canonical vault commit-pinned in PodlESP)
